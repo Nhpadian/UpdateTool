@@ -16,7 +16,7 @@ public class ClassFileReader
      */
     public ClassFileReader( RandomAccessFile classRaf )
     {
-        this.classRaf = classRaf;
+        this.classRaf = classRaf; 
     }
 
     /**
