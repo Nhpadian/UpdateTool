@@ -28,7 +28,7 @@ public class ClassFileReader
      * @throws Exception 
      * @throws ZipException
      */
-    public byte[] readIntoBuff( RandomAccessFile classRaf, byte[] buf ) throws Exception
+    public byte[] readIntoBuff(  RandomAccessFile classRaf, byte[] buf ) throws Exception
     {
         try
         {
